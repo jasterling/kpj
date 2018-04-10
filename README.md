@@ -1,3 +1,3 @@
-# kpj - **K** elly, **P** rakesh, **J** onathan
+# kpj - **K** elly, **P** rakash, **J** onathan
 
 Welcome to our git room!
